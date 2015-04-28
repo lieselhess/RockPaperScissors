@@ -1,3 +1,5 @@
+/* Plays a Rock, Paper, Scissors game, human vs coputer, using a random number generator */
+
 var userChoice = prompt("Do you choose rock, paper, or scissors?");
 
 /* Validation to only allow rock, paper, scissors as input */
